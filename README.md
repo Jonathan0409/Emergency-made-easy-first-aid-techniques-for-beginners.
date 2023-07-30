@@ -8,13 +8,13 @@
 
 
 # Researcher/ Developers:
-Anna mae montero Mabansag
+-Anna mae montero Mabansag
 
-Jeanne Mesa
+-Jeanne Mesa
 
-Arajane Mazo Dimaunahan
+-Arajane Mazo Dimaunahan
 
-Jonathan C Gumban
+-Jonathan C Gumban
 # Adviser
 Jefferson A. Costales
 # School Name:
