@@ -1,4 +1,4 @@
-![2](https://github.com/Jonathan0409/Emergency-made-easy-first-aid-techniques-for-beginners./assets/140875689/b3b1121b-17bc-4087-8a64-93f47cde30a4)# Emergency-made-easy-first-aid-techniques-for-beginners.
+# Emergency-made-easy-first-aid-techniques-for-beginners.
 ![1](https://github.com/Jonathan0409/Emergency-made-easy-first-aid-techniques-for-beginners./assets/140875689/f6405fa3-e570-43ac-98c1-11f636fc2f9f)
 This study Emergency Made Easy: First Aid Techniques for Beginners is an accessible and comprehensive guide designed to equip individuals with essential life-saving skills. This concise yet informative resource offers step-by-step instructions and practical tips, making it ideal for those with little to no prior first aid knowledge.
 # Overview
