@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512526380884",
+    "project_id": "emergency-care-made",
+    "storage_bucket": "emergency-care-made.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512526380884:android:a461e1ef18abb1732d62c1",
+        "android_client_info": {
+          "package_name": "com.example.emergency_care_made"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512526380884-f7r289fe5hlog237djrdbm828ho7ar0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLPVt2R6zxOw4ZTldRU-YhEV3zAZ1_6ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512526380884-f7r289fe5hlog237djrdbm828ho7ar0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

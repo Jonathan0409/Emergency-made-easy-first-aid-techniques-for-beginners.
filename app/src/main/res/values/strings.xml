@@ -1,0 +1,281 @@
+<resources>
+    <string name="app_name">Emergency Care Made</string>
+
+
+    <string name="date"><b> During- if indoors </b> \n \n
+
+1. DROP cover and hold on. Move as little as possible and watch for falling objects. It is most important to keep your head and torso covered.
+        \n \n 2. If you are in bed, stay there, curl up and hold on, protecting your head with a pillow.
+     \n \n   3. Stay away from windows to avoid being injured by shattered glass.
+\n \n 4. Stay indoors until the shaking stops and you are sure it is safe to exit.
+        \n \n 4. If you must go outside after the shaking stops, use stairs rather than an elevator in case of aftershocks, power outages or other damage.
+
+\n \n 5. Be aware that fire alarms and sprinkler systems frequently go off in buildings during an earthquake, even if there is no fire.
+
+        <b> During - if you are outside</b> \n \n
+        1. Find a clear spot and drop to the ground. Stay there until the shaking stops (away from buildings, power lines, trees, streetlights).
+\n \n
+        <b> During - if you are in a vehicle </b> \n \n
+
+        1. Pull over to a clear location and stop. Avoid bridges, overpasses and power lines if possible.
+\n \n
+2. Stay inside with your seatbelt fastened until the shaking stops.
+\n \n
+Then, drive carefully, avoiding bridges and ramps that may have been damaged.
+\n \n
+3. If a power line falls on your vehicle, do not get out. Wait for assistance.
+\n \n
+4. If you are in a mountainous area or near unstable slopes or cliffs, be alert for falling rocks and other debris.
+
+    </string>
+
+    <string name="rating"> <b> What to do if you have an Fire: </b> \n \n
+
+    1.Remember to GET OUT, STAY OUT and CALL911 or your local emergency phone number.
+    \n \n
+    2.Yell "Fire!" several times and go outside right away. If you live in a building with elevators, use the stairs. Leave all your things where they are and save yourself.
+    \n \n
+    3.If closed doors or handles are warm or smoke blocks your primary escape route, use your second way out. Never open doors that are warm to the touch.
+    \n \n
+    4.If you must escape through smoke, get low and go under the smoke to your exit. Close doors behind you.
+    \n \n
+    5.If smoke, heat or flames block your exit routes, stay in the room with doors closed. Place a wet towel under the door and call the fire department or 9-1-1. Open a window and wave a brightly colored cloth or flashlight to signal for help.
+    \n \n
+    6.Once you are outside, go to your meeting place and then send one person to call the fire department. If you cannot get to your meeting place, follow your family emergency
+    \n \n
+    <b> If your clothes catch on fire: </b>
+    \n \n
+    1.Stop what you’re doing.
+    \n \n
+    2.Drop to the ground and cover your face if you can.
+    \n \n
+    3.Roll over and over or back and forth until the flames go out. Running will only make the fire burn faster.
+</string>
+
+    <string name="edit"> <b> What is Volcano eruption?</b> \n \n
+
+A volcanic eruption is when gas or lava are released from a volcano sometimes explosively. Volcanoes provide a number of environmental benefits, for example: fertile soils, hydrothermal energy, and precious minerals.
+
+\n \n
+<b>Before </b> \n \n
+
+1.Know the signs of an impending eruption such as the increase in the frequency of volcanic quakes accompanied by rumbling sounds, change in color of steam emission from white to gray, and drying up of vegetation, springs, and wells around the volcano.
+\n \n
+2.Know the community’s safety plans by monitoring the latest advisories and warnings, knowing the location of the evacuation site, and preparing your family’s go bag.
+\n \n
+3.Each person should be aware of the dangers that volcanic eruptions. Volcanic eruptions are expected to caush ash falls which in turn could harm humans, animals, plants, equipments, and structures. Beyond that, fine volcanic ash is also often respirable which can cause pulmo-respiratory diseases if inhaled over prolonged period.
+\n \n
+4.Prepare all necessary things to bring in case of evacuation: gas mask or clean cloth, candles, matches, flashlights, extra batteries. Don’t forget to prepare your disaster kit ahead of time.
+\n \n
+5.Know which areas are covered by the danger zones.
+\n \n
+<b> During</b>
+\n \n
+1.Stay calm. Cover your nose and mouth with mask or clean cloth and wear protective goggles.
+\n \n
+2.If you are outside, immediately seek cover in case of ash or rock falls. Wear glasses to protect your eyes and avoid all low-lying places.
+\n \n
+3.If you are inside a house, listen to the radio for updates and developments regarding the volcanic eruption. Close all windows and doors of the house and your car to prevent ashes from getting inside.
+\n \n
+4.If you are driving a vehicle, pull to the side of the road and stop if there is a heavy ashfall.
+\n \n
+5.As soon as the ashfall tapers, scrape off the ash that has accummulated on roof tops to prevent collapse.
+\n \n
+6.When notified, immediately evacuate to safer grounds. Stay in the evacuation center until further instructions. Do not attempt to leave the place unless told to do.
+\n \n
+7.Thoroughly wash utensils before eating. Cover water containers and food to avoid contamination with ash.
+\n \n
+8.Keep your pets in their shelter or inside the house to prevent them from inhaling ash.
+\n \n
+9.Stay away from rivers and streams for possible lahar flow.
+\n \n
+<b> After </b>
+\n \n
+1.Wear masks when cleaning.
+\n \n
+2.After removing the ash, clean the roof and gutter with water to prevent corrosion.
+\n \n
+3.Shake loose the ash from plants, furniture, and windows before cleaning them with water. Cover your nose while cleaning.
+\n \n
+4.Wait for further announcements related to the volcanic eruption.
+
+
+        </string>
+
+    <string name="camera"><b> What is Tsunami? </b> \n \n
+    A tsunami is a series of enormous ocean waves caused by earthquakes, underwater landslides, volcanic eruptions or asteroids.
+    A tsunami can kill or injure people and damage or destroy buildings and infrastructure as waves come in and go out. \n \n
+\n \n
+    If you are under a tsunami warning.
+\n \n
+    1.If caused by an earthquake, Drop, Cover, then Hold On to protect yourself from the earthquake first.
+\n \n
+    2.Get to high ground as far inland as possible
+\n \n
+    3.Be alert to signs of a tsunami, such as a sudden rise or draining of ocean waters.
+\n \n
+    4.Listen to emergency information and alerts. Always follow the instructions from local emergency managers.
+\n \n
+    5.Evacuate: DO NOT wait! Leave as soon as you see any natural signs of a tsunami or receive an official tsunami warning.
+\n \n
+    6.If you are in a boat, go out to sea.
+\n \n
+        <b> During the tsunami. </b>
+\n \n
+    1.If caused by an earthquake, Drop, Cover, then Hold On to protect yourself from the earthquake first.Crawl only if you can reach a better cover, but do not go through an area with more debris.
+\n \n
+    2.When the shaking stops, if there are natural signs or official warnings of a tsunami, move immediately to a safe place as high and as far inland as possible.
+\n \n
+    3.If you are outside of the tsunami hazard zone and receive a warning, stay where you are unless officials tell you otherwise.
+\n \n
+    4.Leave immediately if you are told to do so. Evacuation routes often are marked by a wave with an arrow in the direction of higher ground.
+\n \n
+    5.If you are in the water, then grab onto something that floats, such as a raft or tree trunk.
+\n \n
+    6.If you are in a boat, face the direction of the waves and head out to sea. If you are in a harbor, go inland.
+\n \n
+        <b> After the tsunami </b>
+\n \n
+    1.Listen to local alerts and authorities for information on areas to avoid and shelter locations.
+\n \n
+    2.Save phone calls for emergencies. Phone systems often are down or busy after a disaster. Use text messages or social media to communicate with family and friends.
+\n \n
+    3.Avoid wading in floodwater, which can contain dangerous debris. Water may be deeper than it appears.
+\n \n
+    4.Be aware of the risk of electrocution. Underground or downed power lines can electrically charge water. Do not touch electrical equipment if it is wet or if you are standing in water.
+\n \n
+    5.Stay away from damaged buildings, roads and bridges.
+    If you become injured or sick and need medical attention, contact your healthcare provider and shelter in place, if possible. Call 911 if you are experiencing a medical emergency.
+\n \n
+    6.Document property damage with photographs. Conduct an inventory and contact your insurance company for assistance.</string>
+
+    <string name="recyclerview">
+<b> Before a typhoon hits </b> \n \n
+To prepare for a Typhoon, you should take the following measures: \n \n
+To begin preparing, you should build an emergency kit and make a family communications plan. \n \n
+Know your surroundings \n \n
+Learn the elevation level of your property and whether the land is flood-prone. This will help you know how your property will be affected when storm surge or tidal flooding are forecast.
+Identify levees and dams in your area and determine whether they pose a hazard to you. \n \n
+Learn community Typhoon evacuation routes and how to find higher ground. Determine where you would go and how you would get there if you needed to evacuate.
+Make plans to secure your property: \n \n
+Cover all of your home’s windows. Permanent storm shutters offer the best protection for windows. A second option is to board up windows with 5/8” marine plywood, cut to fit and ready to install. Tape does not prevent windows from breaking.
+
+\n \n Install straps or additional clips to securely fasten your roof to the frame structure. This will reduce roof damage.
+\n \n Be sure trees and shrubs around your home are well trimmed so they are more wind resistant.
+\n \n Clear loose and clogged rain gutters and downspouts.
+\n \n Reinforce your garage doors; if wind enters a garage it can cause dangerous and expensive structural damage.
+\n \n Plan to bring in all outdoor furniture, decorations, garbage cans and anything else that is not tied down.
+\n \n In a strong typhoon, A LOOSE OBJECT IS A MISSILE!
+\n \n Determine how and where to secure your boat.
+\n \n If in a high-rise building, be prepared to take shelter on or below the 10th floor.
+
+
+     <b> During a Typhoon </b>   \n \n
+If a Typhoon is likely in your area, you should: \n \n
+
+Listen to the radio or TV for information.
+        \n \n
+Secure your home, close storm shutters and secure outdoor objects or bring them indoors. \n \n
+
+Turn off utilities (electricity) if instructed to do so. Otherwise, turn the refrigerator thermostat to its coldest setting and keep its doors closed.
+\n \n
+Turn off LPG tanks
+        \n \n
+Avoid using the phone, except for serious emergencies. \n \n
+Moor your boat if time permits.\n \n
+Ensure a supply of water for sanitary purpose such as cleaning and flushing toilets. Fill the bathtub and other larger containers with water.
+\n \n Find out how to keep food safe during and after and emergency.
+    </string>
+
+    <string name="corona"> <b> Treating COVID-19 at home:</b> Care tips for you and others \n \n
+Providing care at home for a person sick with COVID-19? Or caring for yourself at home? Understand when emergency care is needed and what you can do to prevent the spread of infection.
+\n \n
+       <b>  At-home treatment </b> \n \n
+Most people who become sick with COVID-19 will only have mild illness and can get better at home. Symptoms might last a few days. People who have the virus might feel better in about a week. Treatment is aimed at relieving symptoms and includes:
+\n \n
+Rest \n \n
+Fluids \n \n
+Pain reliever \n \n
+        <b>Emergency warning signs</b> \n \n
+        If symptoms seem to be getting worse, call the provider.
+\n \n
+If you or the person with COVID-19 has emergency warning signs, get medical attention right away. Call 911 or your local emergency number if you notice any emergency signs, including:
+\n \n
+Trouble breathing \n \n
+Persistent chest pain or pressure \n \n
+New confusion \n \n
+Trouble staying awake \n \n
+Pale, gray or blue-colored skin, lips or nail beds — depending on skin tone
+    </string>
+
+    <string name="burn">
+
+	Burns are tissue damage from hot liquids, the sun, flames, chemicals, electricity, steam and other causes. Kitchen-related injuries from hot drinks, soups and microwaved foods are common among children.
+\n \n
+<b>Major burns need emergency medical help. Minor burns can usually be treated with first aid.</b>
+\n \n
+When to seek emergency care \n \n
+        <b>Call 911 or seek immediate care for major burns, which:</b>  \n \n
+
+\n \n 1. Are deep, involving all layers of the skin
+\n \n 2. Cause the skin to be dry and leathery
+\n \n 3. May appear charred or have patches of white, brown or black
+\n \n 4. Are larger than 3 inches (about 8 centimeters) in diameter
+\n \n 5. Cover the hands, feet, face, groin, buttocks or a major joint, or encircles an arm or leg
+\n \n 6. Are accompanied by smoke inhalation
+\n \n 7. Begin swelling very quickly
+
+    </string>
+
+    <string name="asth"><b>What is an Asthma Attack?</b> \n \n
+
+	An asthma attack is a sudden worsening of asthma symptoms caused by the tightening of muscles around your airways. This tightening is called a bronchospasm. During the asthma attack, the lining of the airways also becomes swollen or inflamed and thicker mucus more than normal is produced. All of these factors bronchospasm, inflammation, and mucus production cause symptoms of an asthma attack such as trouble breathing, wheezing, coughing, shortness of breath, and difficulty performing normal daily activities.
+\n \n
+What to do if you have an asthma attack
+\n \n
+1. Sit up straight – try to keep calm.
+\n \n
+2. Take one puff of your reliever inhaler (usually blue) every 30 to 60 seconds up to 10 puffs.
+\n \n
+3. If you feel worse at any point, or you do not feel better after 10 puffs, call 911 for an ambulance.
+\n \n
+4. If the ambulance has not arrived after 10 minutes and your symptoms are not improving, repeat step 2.
+\n \n
+5. If your symptoms are no better after repeating step 2, and the ambulance has still not arrived, contact 911 again immediately.
+\n \n
+After an asthma attack
+\n \n
+You should see a asthma nurse within 48 hours of leaving hospital, or ideally on the same day if you did not need hospital treatment.
+
+    </string>
+
+    <string name="chock"><b>What is Choking?</b>
+\n \n
+It happens when an object lodges in the throat or windpipe blocking the flow of air. In adults, a piece of food is usually to blame. Young children often choke on small objects. Choking is life-threatening. It cuts off oxygen to the brain. Give first aid as quickly as possible if you or someone else is choking.
+\n \n
+
+        <b> What to do if you have an Choking: </b> \n \n
+1. Hit them firmly on their back between the shoulder blades 5 times to dislodge the object. Then give 5 quick abdominal thrusts.This creates a strong vibration and pressure in the airway, which is often enough to dislodge the blockage. Dislodging the object will allow them to breathe again.
+\n \n
+
+2. Always call 911 or get someone else to do it when someone is choking.
+
+
+    </string>
+
+    <string name="bleed">Bleeding is the loss of blood from the circulatory system. Causes can range from small cuts and abrasions to deep cuts and amputations. Injuries to the body can also result in internal bleeding, which can range from minor (seen as superficial bruising) to massive bleeds.
+
+First aid for severe external or internal bleeding is critical in order to limit the loss of blood until emergency medical aid arrives. First aid actions to manage external bleeding include applying direct pressure to the wound, maintaining the pressure using pads and bandages, and, raising the injured limb above the level of the heart if possible.
+\n \n
+        <b>Minor bleeding</b> \n \n
+1. Small cuts and abrasions that are not bleeding excessively can be managed at home. First aid suggestions include:
+\n \n
+2. Clean the injured area with sterile gauze soaked in normal saline or clean water. Do not use cotton wool or any material that will fray or leave fluff in the wound. \n \n
+3. Apply an appropriate dressing such as a band aid or a non-adhesive dressing held in place with a hypoallergenic tape. This dressing must be changed regularly. \n \n
+4. See your doctor if you can’t remove the dirt yourself. A dirty wound carries a high risk of infection. \n \n
+5. If you have not had a booster vaccine against tetanus in the last five years, see your doctor. \n \n
+
+
+    </string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
