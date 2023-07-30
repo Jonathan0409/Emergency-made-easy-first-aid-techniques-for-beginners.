@@ -1,9 +1,9 @@
-# Emergency-made-easy-first-aid-techniques-for-beginners.
+# Emergency-care-made-easy-first-aid-techniques-for-beginners.
 ![1](https://github.com/Jonathan0409/Emergency-made-easy-first-aid-techniques-for-beginners./assets/140875689/f6405fa3-e570-43ac-98c1-11f636fc2f9f)
 
-This study Emergency Made Easy: First Aid Techniques for Beginners is an accessible and comprehensive guide designed to equip individuals with essential life-saving skills. This concise yet informative resource offers step-by-step instructions and practical tips, making it ideal for those with little to no prior first aid knowledge.
+This study Emergency Care Made Easy: First Aid Techniques App for Beginners is an accessible and comprehensive guide designed to equip individuals with essential life-saving skills. This concise yet informative resource offers step-by-step instructions and practical tips, making it ideal for those with little to no prior first aid knowledge.
 # Overview
-Emergency Made Easy: First Aid Techniques for Beginners app is a thorough manual created to give people who have little to no prior experience dealing with emergencies fundamental first aid knowledge and abilities. This manual's main objective is to equip readers with the skills they need to react quickly and confidently in emergency situations, such as accidents, injuries, sudden illnesses, or other crises, before professional medical assistance comes.
+Emergency Care Made Easy: First Aid Techniques for Beginners app is a thorough manual created to give people who have little to no prior experience dealing with emergencies fundamental first aid knowledge and abilities. This manual's main objective is to equip readers with the skills they need to react quickly and confidently in emergency situations, such as accidents, injuries, sudden illnesses, or other crises, before professional medical assistance comes.
 # Features
 # 1. LogIn and Sign up
 ![2](https://github.com/Jonathan0409/Emergency-made-easy-first-aid-techniques-for-beginners./assets/140875689/248be9d2-49fb-4c92-9d08-75716b9708a3)
