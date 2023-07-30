@@ -48,6 +48,6 @@ Bachelor of Science in Information Technology
 # Subject:
 Mobile Application and Development (iOS & Andriod)
 # Year And Section:
-3rd Year, Section C
+3rd Year, Section A
 # Date:
 July 29, 2023
